@@ -4,3 +4,5 @@ In this project I have tried to control the game movement using by hand gesture.
 
 Steps to follow:
 
+![ezgif-5-4d64ad621c3a](https://user-images.githubusercontent.com/61458877/97389430-4435c100-1900-11eb-83e8-9fcdc26041ca.gif)
+
